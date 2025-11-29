@@ -3,3 +3,4 @@ Below are some Python projects I have done for practice and fun. They were eithe
 
 ## <ins>Projects:</ins>
 -[50 States and Capitals Quiz](https://github.com/RebeccaWells3/Python-Practice/blob/main/50StatesandCapsQuiz.ipynb)
+-[Number Guessing Game](num_guess_game.ipynb)
