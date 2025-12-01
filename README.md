@@ -1,5 +1,5 @@
 # <ins>Python-Practice</ins>
-Below are some Python projects I have done for practice and fun. They were either done entirely in Jupyter Notebook or IDEs.
+Below are some Python projects I have done for practice and fun. They were either done in Jupyter Notebook or other IDEs and usually saved in Jupyter Notebook.
 
 ## <ins>Projects:</ins>
 -[50 States and Capitals Quiz](50StatesandCapsQuiz.ipynb)
