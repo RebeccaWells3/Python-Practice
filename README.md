@@ -6,5 +6,5 @@ Below are some Python projects I have done for practice and fun. They were eithe
 
 -[Number Guessing Game](num_guess_game.ipynb)
 
--[Bank Account Simulation](bankaccount.py):
+-[Bank Account Simulation](bankaccount.py)
     
